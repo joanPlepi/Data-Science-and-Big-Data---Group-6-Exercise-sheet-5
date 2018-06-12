@@ -7,7 +7,7 @@ Group members:
 * Joan Plepi
 * Xhulja Shahini
 
-The code of exercises 2,3,4,5 it's in the src folder.
+The code of exercises 2,3,4,5 it's in the src folder.\
 *P.S. Download and extract the input file:last-fm-sample1000000.tsv to resources folder.*
 
 ## Task 1) Horizontal Scalability
